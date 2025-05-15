@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456820134220",
+    "project_id": "login-cea10",
+    "storage_bucket": "login-cea10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456820134220:android:688f3bb52c0ad525fbbfe9",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqyBeiMmHG-0azYoOJGCDkvJ5Xck2eQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456820134220:android:dedfb510d224b9f3fbbfe9",
+        "android_client_info": {
+          "package_name": "com.example.role_based_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqyBeiMmHG-0azYoOJGCDkvJ5Xck2eQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
